@@ -1,0 +1,28 @@
+# Archivos compilados
+*.class
+
+# Carpetas de salida
+/bin/
+/build/
+/target/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# IDEs
+*.iml
+.idea/
+.vscode/
+
+# Librerías descargadas por dependencias
+/lib/
+/.gradle/
+/mvn/
+
+# Logs
+*.log
+
+# Archivos de entorno local
+.env
+*.swp
